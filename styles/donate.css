@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+}
+.section{
+text-align: center;
+margin-top: 15px;
+background-image: url(../images/donation6.jpg);
+background-repeat: no-repeat;
+background-position: center;
+
+
+}
+.section-content{
+  color: rgb(254, 254, 249);
+  padding-top: 90px;
+  padding-bottom: 30px;
+  font-size: 20px;
+}
+.section-title{
+color: #ffff;
+font-size: 70px;
+  
+  
+}
+.btn-primary{
+  background:rgb(255, 122, 6) ;
+  color:#ffff;
+  border: 0;
+  border-radius: 5px;
+  margin-bottom: 50px;
+  padding: 20px 30px;
+  font-size: 18px;
+}
+.details{
+  padding: 60px;
+}
