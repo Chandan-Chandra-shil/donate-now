@@ -72,3 +72,44 @@ font-size: 70px;
 .donate-small{
   padding: 10px;
 }
+ /* section two  styles */
+ .donate-plan{
+  text-align: center;
+  margin: 0 475px;
+ }
+ .dp-title{
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 25px;
+ }
+.donate-sub-title{
+  font-size: 24px;
+  margin-bottom: 40px;
+
+ 
+}
+.dp-details{
+  display: flex;
+  gap: 30px;
+}
+
+.dp-sub-details{
+  border: none;
+  background: rgb(242, 229, 217);
+  padding: 30px 20px;
+  border-radius: 5px;
+  font-size: 20px;
+
+}
+ .sub-title{
+  font-size: 24px;
+  font-weight: 600;
+  padding-bottom: 15px;
+ }
+ .dp-sub-title{
+  font-size: 18px;
+  font-weight: 500;
+ }
+ .dp-img{
+  padding-bottom: 20px;
+ }
