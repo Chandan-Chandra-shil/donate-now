@@ -55,18 +55,22 @@ font-size: 70px;
   display: flex;
   gap: 30px;
   padding-bottom: 15px;
+  font-size: 24px;
+  font-weight: 600;
  
  }
  
  .tk{
-  text-align: center;
-  border: solid;
-  background: rgb(236, 167, 83);
-  color: #ffff;
-  font-size: 20px;
-  font-weight: 700;
+  background: rgb(223, 223, 223);
+  border:none ;
+  padding: 40px 50px;
+   border-radius: 5px;
+ }
+ .tk-one{
+  background: rgb(244, 218, 218);
+  border:1px solid red;
+  padding: 40px 50px;
   border-radius: 5px;
-  padding: 40px 40px;
 
  }
 .donate-small{
@@ -91,14 +95,29 @@ font-size: 70px;
 .dp-details{
   display: flex;
   gap: 30px;
+  padding-bottom: 40px;
 }
 
 .dp-sub-details{
   border: none;
-  background: rgb(242, 229, 217);
+  background: rgb(227, 236, 245);
   padding: 30px 20px;
   border-radius: 5px;
   font-size: 20px;
+
+}
+.dp-sub-details-one{
+   background: rgb(244, 220, 245);
+   border-radius: 5px;
+  font-size: 20px;
+  padding: 30px 20px;
+  
+}
+.dp-sub-details-two{
+background: rgb(205, 212, 234);
+border-radius: 5px;
+ font-size: 20px;
+  padding: 30px 20px;
 
 }
  .sub-title{
@@ -113,3 +132,8 @@ font-size: 70px;
  .dp-img{
   padding-bottom: 20px;
  }
+ /* right and left site styles */
+.right-div{
+  display: flex;
+}
+ 
