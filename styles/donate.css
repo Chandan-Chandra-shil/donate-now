@@ -34,6 +34,7 @@ font-size: 70px;
  margin-top: 20px;
  margin-bottom: 40px;
 }
+/*  common class name */
 .details{
   padding: 60px;
   text-align: center;
@@ -80,6 +81,7 @@ font-size: 70px;
  .donate-plan{
   text-align: center;
   margin: 0 475px;
+  padding-bottom: 50px;
  }
  .dp-title{
   font-size: 40px;
@@ -136,4 +138,46 @@ border-radius: 5px;
 .right-div{
   display: flex;
 }
- 
+ /*  both section styles*/
+ .both-one{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 476px;
+  gap: 20px;
+  padding-bottom: 60px;
+ }
+ .right{
+   padding-top:50px;
+
+ }
+ .left img{
+
+  border-radius:10px ;
+ }
+ .both-title{
+  font-size: 40px;
+  font-weight: 700;
+  padding-bottom: 24px;
+
+ }
+ .both-p{
+  font-size: 18px;
+  
+  padding-bottom: 16px;
+ }
+ .both-two{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 450px;
+  padding-top: 50px;
+  gap: 20px;
+ }
+ .left-two img{
+  height: 397px;
+  width: 592px;
+  border-radius: 5px;
+
+ }
+ .left-two{
+  
+ }
